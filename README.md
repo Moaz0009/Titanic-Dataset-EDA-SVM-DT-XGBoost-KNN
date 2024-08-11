@@ -89,7 +89,7 @@ The analysis covers the following steps:
    - Normalize and scale features where necessary to improve model performance.
 
 4. **Modeling:**
-   - Train several machine learning models (e.g., DecisionTree, XGBoost, Random Forest, Support Vector Machine) to predict passenger survival.
+   - Train several machine learning models (e.g., DecisionTree, XGBoost, KNN, Support Vector Machine) to predict passenger survival.
    - Evaluate model performance using metrics like accuracy, precision, recall, and F1-score.
    - Tune model hyperparameters to improve predictions.
 
